@@ -1,6 +1,6 @@
 Package: scimo
 Title: Extra Recipes Steps for Dealing with Omics Data
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("Antoine", "BICHAT", , "antoine.bichat@proton.me", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-6599-7081")),
@@ -24,9 +24,9 @@ Encoding: UTF-8
 LazyData: false
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-04-02 17:20:13 UTC; antoinebichat
+Packaged: 2024-06-07 17:13:09 UTC; antoinebichat
 Author: Antoine BICHAT [aut, cre] (<https://orcid.org/0000-0001-6599-7081>),
   Julie AUBERT [ctb] (<https://orcid.org/0000-0001-5203-5748>)
 Maintainer: Antoine BICHAT <antoine.bichat@proton.me>
 Repository: CRAN
-Date/Publication: 2024-04-03 19:40:02 UTC
+Date/Publication: 2024-06-07 17:40:02 UTC
